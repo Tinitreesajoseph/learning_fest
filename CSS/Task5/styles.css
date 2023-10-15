@@ -1,0 +1,11 @@
+.box{
+    padding: 70px;
+    height: 280px;
+    width: 550px;
+    background-color: lightcyan;
+    border: 20px solid black;
+    margin: auto;
+}
+.pa{
+    text-align: center;
+}
